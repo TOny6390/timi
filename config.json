@@ -11,7 +11,7 @@
       "changeable": 1,
       "ext": "uqGL1bNENExT7/hGxpSE5qU=",
       "filterable": 1,
-      "jar": "https://raw.githubusercontent.com/TOny6390/timi/refs/heads/main/jars/164fa61b160f3119f4f21489b9dfaf56.jar;md5;164fa61b160f3119f4f21489b9dfaf56"
+      "jar": "https://gh-proxy.com/raw.githubusercontent.com/TOny6390/timi/refs/heads/main/jars/164fa61b160f3119f4f21489b9dfaf56.jar;md5;164fa61b160f3119f4f21489b9dfaf56"
     },
     {
       "key": "WexAiReBo",
@@ -22,7 +22,7 @@
       "quickSearch": 1,
       "changeable": 0,
       "filterable": 1,
-      "jar": "https://raw.githubusercontent.com/TOny6390/timi/refs/heads/main/jars/541366f5860ceb66e1c3005f5a299afe.jar;md5;541366f5860ceb66e1c3005f5a299afe"
+      "jar": "https://gh-proxy.com/raw.githubusercontent.com/TOny6390/timi/refs/heads/main/jars/541366f5860ceb66e1c3005f5a299afe.jar;md5;541366f5860ceb66e1c3005f5a299afe"
     },
     {
       "key": "AppV7 | 大师兄",
@@ -38,7 +38,7 @@
       "timeout": 120,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "https://raw.githubusercontent.com/TOny6390/timi/refs/heads/main/jars/541366f5860ceb66e1c3005f5a299afe.jar;md5;541366f5860ceb66e1c3005f5a299afe"
+      "jar": "https://gh-proxy.com/raw.githubusercontent.com/TOny6390/timi/refs/heads/main/jars/541366f5860ceb66e1c3005f5a299afe.jar;md5;541366f5860ceb66e1c3005f5a299afe"
     },
     {
       "key": "行动",
@@ -132,5 +132,5 @@
   ],
   "parses": [],
   "lives": [],
-  "spider": "https://raw.githubusercontent.com/TOny6390/timi/refs/heads/main/jars/6a396033ae45efee57ba789f91d7123e.jar;md5;6a396033ae45efee57ba789f91d7123e"
+  "spider": "https://gh-proxy.com/raw.githubusercontent.com/TOny6390/timi/refs/heads/main/jars/6a396033ae45efee57ba789f91d7123e.jar;md5;6a396033ae45efee57ba789f91d7123e"
 }
