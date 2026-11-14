@@ -295,19 +295,6 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
-    },
-    {
-      "key": "文采",
-      "name": "💮文采┃秒播 「饭太硬」",
-      "type": 3,
-      "api": "csp_JpysGuard",
-      "timeout": 10,
-      "playerType": 1,
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "filterable": 1,
-      "jar": "https://gh-proxy.com/raw.githubusercontent.com/TOny6390/timi/refs/heads/main/jars/76e9565340e6d28c363b914ca2d506ed.jar;md5;76e9565340e6d28c363b914ca2d506ed"
     }
   ],
   "parses": [],
