@@ -1,6 +1,30 @@
 {
   "sites": [
     {
+      "key": "Doubanaaaa",
+      "name": "🐮【更新日期:20261112】🐮",
+      "type": 3,
+      "api": "csp_NewDouBanGuard",
+      "indexs": 1,
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 0,
+      "ext": "https://cdn.waimaimingtang.com/file/images/bwc/20260414181247-ae51abfbfe.txt",
+      "jar": "https://gh-proxy.com/raw.githubusercontent.com/TOny6390/timi/refs/heads/main/jars/541366f5860ceb66e1c3005f5a299afe.jar;md5;541366f5860ceb66e1c3005f5a299afe"
+    },
+    {
+      "key": "Douban",
+      "name": "🐮【免费分享】🐮",
+      "type": 3,
+      "api": "csp_NewDouBanGuard",
+      "indexs": 1,
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 0,
+      "ext": "https://cdn.waimaimingtang.com/file/images/bwc/20260414181247-ae51abfbfe.txt",
+      "jar": "https://gh-proxy.com/raw.githubusercontent.com/TOny6390/timi/refs/heads/main/jars/541366f5860ceb66e1c3005f5a299afe.jar;md5;541366f5860ceb66e1c3005f5a299afe"
+    },
+    {
       "key": "热播",
       "name": "📺热播┃多线 「饭太硬」",
       "type": 3,
@@ -11,7 +35,7 @@
       "changeable": 1,
       "ext": "uqGL1bNENExT7/hGxpSE5qU=",
       "filterable": 1,
-      "jar": "https://gh-proxy.com/raw.githubusercontent.com/TOny6390/timi/refs/heads/main/jars/164fa61b160f3119f4f21489b9dfaf56.jar;md5;164fa61b160f3119f4f21489b9dfaf56"
+      "jar": "https://gh-proxy.com/raw.githubusercontent.com/TOny6390/timi/refs/heads/main/jars/76e9565340e6d28c363b914ca2d506ed.jar;md5;76e9565340e6d28c363b914ca2d506ed"
     },
     {
       "key": "WexAiReBo",
@@ -299,5 +323,5 @@
   ],
   "parses": [],
   "lives": [],
-  "spider": "https://gh-proxy.com/raw.githubusercontent.com/TOny6390/timi/refs/heads/main/jars/a2928946eb00e5fee87663c94ae37bff.jar;md5;a2928946eb00e5fee87663c94ae37bff"
+  "spider": "https://gh-proxy.com/raw.githubusercontent.com/TOny6390/timi/refs/heads/main/jars/d2c9caaaeba20f00baac53295dbed29e.jar;md5;d2c9caaaeba20f00baac53295dbed29e"
 }
