@@ -1,28 +1,23 @@
 {
   "sites": [
     {
-      "key": "Doubanaaaa",
-      "name": "🐮【更新日期:20261112】🐮",
+      "key": "咕噜",
+      "name": "🕊┃︎咕噜┃APP 「肥猫」",
       "type": 3,
-      "api": "csp_NewDouBanGuard",
-      "indexs": 1,
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0,
-      "ext": "https://cdn.waimaimingtang.com/file/images/bwc/20260414181247-ae51abfbfe.txt",
-      "jar": "https://gh-proxy.com/raw.githubusercontent.com/TOny6390/timi/refs/heads/main/jars/541366f5860ceb66e1c3005f5a299afe.jar;md5;541366f5860ceb66e1c3005f5a299afe"
+      "api": "csp_Gulu",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "jar": "https://gh-proxy.com/raw.githubusercontent.com/TOny6390/timi/refs/heads/main/jars/6a396033ae45efee57ba789f91d7123e.jar;md5;6a396033ae45efee57ba789f91d7123e"
     },
     {
-      "key": "Douban",
-      "name": "🐮【免费分享】🐮",
+      "key": "独播影视",
+      "name": "独播 • 影视 「潇洒」",
       "type": 3,
-      "api": "csp_NewDouBanGuard",
-      "indexs": 1,
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0,
-      "ext": "https://cdn.waimaimingtang.com/file/images/bwc/20260414181247-ae51abfbfe.txt",
-      "jar": "https://gh-proxy.com/raw.githubusercontent.com/TOny6390/timi/refs/heads/main/jars/541366f5860ceb66e1c3005f5a299afe.jar;md5;541366f5860ceb66e1c3005f5a299afe"
+      "api": "csp_Duboku",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
     },
     {
       "key": "热播",
@@ -65,6 +60,27 @@
       "jar": "https://gh-proxy.com/raw.githubusercontent.com/TOny6390/timi/refs/heads/main/jars/541366f5860ceb66e1c3005f5a299afe.jar;md5;541366f5860ceb66e1c3005f5a299afe"
     },
     {
+      "key": "再来",
+      "name": "✌️┃再来┃APP 「肥猫」",
+      "type": 3,
+      "api": "csp_AppDrama2",
+      "ext": {
+        "appName": "电影天堂",
+        "publicKey": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCduNEnfxGaLuQRk5ABzXHhPV43zi00sCHjLo8BYc+Wi6xXm2b4v0i28Sq4WlNCKhseft9fz8kO/qLr6/022o1RcuOU7e4GFL3U9WnNODwRBYSYWd+K8nqpI/tAUDmZEBGRWqjrc7x6aMl3A+xpnWkLbPCLsuhbuuUE3tv09oeOpwIDAQAB",
+        "dataKey": "D2KREWRIBVNAUJJYEDL4VFHOY2Q0PQ==",
+        "dataIv": "OC1A06E197EF10CF3F6058CA7A803B5E",
+        "pkg": "com.dytiantang.one",
+        "host": "",
+        "site": "https://dyttandroid04-1372779881.cos.ap-shanghai.myqcloud.com/app_dyttandroid.txt",
+        "version": "3.0.0.7",
+        "decrypt": "0"
+      },
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "jar": "https://gh-proxy.com/raw.githubusercontent.com/TOny6390/timi/refs/heads/main/jars/6a396033ae45efee57ba789f91d7123e.jar;md5;6a396033ae45efee57ba789f91d7123e"
+    },
+    {
       "key": "行动",
       "name": "😌┃行动┃APP 「肥猫」",
       "type": 3,
@@ -80,16 +96,6 @@
         "version": "6.0.0.1",
         "decrypt": "1"
       },
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "jar": "https://gh-proxy.com/raw.githubusercontent.com/TOny6390/timi/refs/heads/main/jars/6a396033ae45efee57ba789f91d7123e.jar;md5;6a396033ae45efee57ba789f91d7123e"
-    },
-    {
-      "key": "咕噜",
-      "name": "🕊┃︎咕噜┃APP 「肥猫」",
-      "type": 3,
-      "api": "csp_Gulu",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -126,36 +132,6 @@
       "quickSearch": 1,
       "filterable": 1,
       "jar": "https://gh-proxy.com/raw.githubusercontent.com/TOny6390/timi/refs/heads/main/jars/6a396033ae45efee57ba789f91d7123e.jar;md5;6a396033ae45efee57ba789f91d7123e"
-    },
-    {
-      "key": "再来",
-      "name": "✌️┃再来┃APP 「肥猫」",
-      "type": 3,
-      "api": "csp_AppDrama2",
-      "ext": {
-        "appName": "电影天堂",
-        "publicKey": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCduNEnfxGaLuQRk5ABzXHhPV43zi00sCHjLo8BYc+Wi6xXm2b4v0i28Sq4WlNCKhseft9fz8kO/qLr6/022o1RcuOU7e4GFL3U9WnNODwRBYSYWd+K8nqpI/tAUDmZEBGRWqjrc7x6aMl3A+xpnWkLbPCLsuhbuuUE3tv09oeOpwIDAQAB",
-        "dataKey": "D2KREWRIBVNAUJJYEDL4VFHOY2Q0PQ==",
-        "dataIv": "OC1A06E197EF10CF3F6058CA7A803B5E",
-        "pkg": "com.dytiantang.one",
-        "host": "",
-        "site": "https://dyttandroid04-1372779881.cos.ap-shanghai.myqcloud.com/app_dyttandroid.txt",
-        "version": "3.0.0.7",
-        "decrypt": "0"
-      },
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "jar": "https://gh-proxy.com/raw.githubusercontent.com/TOny6390/timi/refs/heads/main/jars/6a396033ae45efee57ba789f91d7123e.jar;md5;6a396033ae45efee57ba789f91d7123e"
-    },
-    {
-      "key": "米诺",
-      "name": "米诺 • APP 「潇洒」",
-      "type": 3,
-      "api": "csp_AppMN",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
     },
     {
       "key": "半日99",
@@ -244,25 +220,6 @@
       }
     },
     {
-      "key": "马猴影视",
-      "name": "马猴 • APP 「潇洒」",
-      "type": 3,
-      "api": "csp_App3Q",
-      "ext": {
-        "host": "https://skykb.com",
-        "finger": "SF-A962FEC75DA28D7514F2A16580334272A78AC0A8429F10C94F47C1BAFC876E3F",
-        "updateId": "43c1ef69-3748-aaeb-317f-c621c77653ee",
-        "deviceBrand": "vivo",
-        "deviceModel": "V2309A",
-        "pkg": "com.damahou.tv",
-        "sk": "SK-woniu-thanks",
-        "ver": "1"
-      },
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
       "key": "橘汁",
       "name": "橘汁 • APP 「潇洒」",
       "type": 3,
@@ -307,15 +264,6 @@
       "type": 3,
       "api": "csp_SaoHuo",
       "ext": "https://shdy5.us",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "独播影视",
-      "name": "独播 • 影视 「潇洒」",
-      "type": 3,
-      "api": "csp_Duboku",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
