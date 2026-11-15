@@ -1,25 +1,6 @@
 {
   "sites": [
     {
-      "key": "咕噜",
-      "name": "🕊┃︎咕噜┃APP 「肥猫」",
-      "type": 3,
-      "api": "csp_Gulu",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "jar": "https://gh-proxy.com/raw.githubusercontent.com/TOny6390/timi/refs/heads/main/jars/6a396033ae45efee57ba789f91d7123e.jar;md5;6a396033ae45efee57ba789f91d7123e"
-    },
-    {
-      "key": "独播影视",
-      "name": "独播 • 影视 「潇洒」",
-      "type": 3,
-      "api": "csp_Duboku",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
       "key": "热播",
       "name": "📺热播┃多线 「饭太硬」",
       "type": 3,
@@ -30,7 +11,17 @@
       "changeable": 1,
       "ext": "uqGL1bNENExT7/hGxpSE5qU=",
       "filterable": 1,
-      "jar": "https://gh-proxy.com/raw.githubusercontent.com/TOny6390/timi/refs/heads/main/jars/76e9565340e6d28c363b914ca2d506ed.jar;md5;76e9565340e6d28c363b914ca2d506ed"
+      "jar": "https://gh-proxy.com/raw.githubusercontent.com/TOny6390/timi/refs/heads/main/jars/fa1bcd5643872834ee03be5ba2f23ac7.jar;md5;fa1bcd5643872834ee03be5ba2f23ac7"
+    },
+    {
+      "key": "咕噜",
+      "name": "🕊┃︎咕噜┃APP 「肥猫」",
+      "type": 3,
+      "api": "csp_Gulu",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "jar": "https://gh-proxy.com/raw.githubusercontent.com/TOny6390/timi/refs/heads/main/jars/6a396033ae45efee57ba789f91d7123e.jar;md5;6a396033ae45efee57ba789f91d7123e"
     },
     {
       "key": "WexAiReBo",
@@ -58,27 +49,6 @@
       "quickSearch": 1,
       "filterable": 1,
       "jar": "https://gh-proxy.com/raw.githubusercontent.com/TOny6390/timi/refs/heads/main/jars/541366f5860ceb66e1c3005f5a299afe.jar;md5;541366f5860ceb66e1c3005f5a299afe"
-    },
-    {
-      "key": "再来",
-      "name": "✌️┃再来┃APP 「肥猫」",
-      "type": 3,
-      "api": "csp_AppDrama2",
-      "ext": {
-        "appName": "电影天堂",
-        "publicKey": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCduNEnfxGaLuQRk5ABzXHhPV43zi00sCHjLo8BYc+Wi6xXm2b4v0i28Sq4WlNCKhseft9fz8kO/qLr6/022o1RcuOU7e4GFL3U9WnNODwRBYSYWd+K8nqpI/tAUDmZEBGRWqjrc7x6aMl3A+xpnWkLbPCLsuhbuuUE3tv09oeOpwIDAQAB",
-        "dataKey": "D2KREWRIBVNAUJJYEDL4VFHOY2Q0PQ==",
-        "dataIv": "OC1A06E197EF10CF3F6058CA7A803B5E",
-        "pkg": "com.dytiantang.one",
-        "host": "",
-        "site": "https://dyttandroid04-1372779881.cos.ap-shanghai.myqcloud.com/app_dyttandroid.txt",
-        "version": "3.0.0.7",
-        "decrypt": "0"
-      },
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "jar": "https://gh-proxy.com/raw.githubusercontent.com/TOny6390/timi/refs/heads/main/jars/6a396033ae45efee57ba789f91d7123e.jar;md5;6a396033ae45efee57ba789f91d7123e"
     },
     {
       "key": "行动",
@@ -128,6 +98,27 @@
       "type": 3,
       "api": "csp_AppRJ",
       "ext": "http://v.rbotv.cn",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "jar": "https://gh-proxy.com/raw.githubusercontent.com/TOny6390/timi/refs/heads/main/jars/6a396033ae45efee57ba789f91d7123e.jar;md5;6a396033ae45efee57ba789f91d7123e"
+    },
+    {
+      "key": "再来",
+      "name": "✌️┃再来┃APP 「肥猫」",
+      "type": 3,
+      "api": "csp_AppDrama2",
+      "ext": {
+        "appName": "电影天堂",
+        "publicKey": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCduNEnfxGaLuQRk5ABzXHhPV43zi00sCHjLo8BYc+Wi6xXm2b4v0i28Sq4WlNCKhseft9fz8kO/qLr6/022o1RcuOU7e4GFL3U9WnNODwRBYSYWd+K8nqpI/tAUDmZEBGRWqjrc7x6aMl3A+xpnWkLbPCLsuhbuuUE3tv09oeOpwIDAQAB",
+        "dataKey": "D2KREWRIBVNAUJJYEDL4VFHOY2Q0PQ==",
+        "dataIv": "OC1A06E197EF10CF3F6058CA7A803B5E",
+        "pkg": "com.dytiantang.one",
+        "host": "",
+        "site": "https://dyttandroid04-1372779881.cos.ap-shanghai.myqcloud.com/app_dyttandroid.txt",
+        "version": "3.0.0.7",
+        "decrypt": "0"
+      },
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -259,11 +250,10 @@
       "filterable": 1
     },
     {
-      "key": "骚火影视",
-      "name": "骚火 • 影视 「潇洒」",
+      "key": "独播影视",
+      "name": "独播 • 影视 「潇洒」",
       "type": 3,
-      "api": "csp_SaoHuo",
-      "ext": "https://shdy5.us",
+      "api": "csp_Duboku",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -271,5 +261,5 @@
   ],
   "parses": [],
   "lives": [],
-  "spider": "https://gh-proxy.com/raw.githubusercontent.com/TOny6390/timi/refs/heads/main/jars/d2c9caaaeba20f00baac53295dbed29e.jar;md5;d2c9caaaeba20f00baac53295dbed29e"
+  "spider": "https://gh-proxy.com/raw.githubusercontent.com/TOny6390/timi/refs/heads/main/jars/cbe016eb3cb002ae62058604843f5106.jar;md5;cbe016eb3cb002ae62058604843f5106"
 }
