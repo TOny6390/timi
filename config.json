@@ -1,6 +1,30 @@
 {
   "sites": [
     {
+      "key": "点我切源",
+      "name": "豆瓣┃片单",
+      "type": 3,
+      "api": "csp_DouDouGuard",
+      "indexs": 1,
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0,
+      "filterable": 1,
+      "jar": "https://gh-proxy.com/raw.githubusercontent.com/TOny6390/timi/refs/heads/main/jars/fa1bcd5643872834ee03be5ba2f23ac7.jar;md5;fa1bcd5643872834ee03be5ba2f23ac7"
+    },
+    {
+      "key": "Douban",
+      "name": "王小二┃片单",
+      "type": 3,
+      "api": "csp_NewDouBanGuard",
+      "indexs": 1,
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 0,
+      "ext": "https://cdn.waimaimingtang.com/file/images/bwc/20260414181247-ae51abfbfe.txt",
+      "jar": "https://gh-proxy.com/raw.githubusercontent.com/TOny6390/timi/refs/heads/main/jars/541366f5860ceb66e1c3005f5a299afe.jar;md5;541366f5860ceb66e1c3005f5a299afe"
+    },
+    {
       "key": "热播",
       "name": "📺热播┃多线 「饭太硬」",
       "type": 3,
