@@ -10,23 +10,11 @@
       "quickSearch": 0,
       "changeable": 0,
       "filterable": 1,
-      "jar": "https://gh-proxy.com/raw.githubusercontent.com/TOny6390/timi/refs/heads/main/jars/fa1bcd5643872834ee03be5ba2f23ac7.jar;md5;fa1bcd5643872834ee03be5ba2f23ac7"
-    },
-    {
-      "key": "Douban",
-      "name": "王小二┃片单",
-      "type": 3,
-      "api": "csp_NewDouBanGuard",
-      "indexs": 1,
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0,
-      "ext": "https://cdn.waimaimingtang.com/file/images/bwc/20260414181247-ae51abfbfe.txt",
-      "jar": "https://gh-proxy.com/raw.githubusercontent.com/TOny6390/timi/refs/heads/main/jars/541366f5860ceb66e1c3005f5a299afe.jar;md5;541366f5860ceb66e1c3005f5a299afe"
+      "jar": "https://gh-proxy.com/raw.githubusercontent.com/TOny6390/timi/refs/heads/main/jars/fb6c7aca82019e4fb811497a37629e3d.jar;md5;fb6c7aca82019e4fb811497a37629e3d"
     },
     {
       "key": "热播",
-      "name": "📺热播┃多线 「饭太硬」",
+      "name": "热播 • 多线 「饭太硬」",
       "type": 3,
       "api": "csp_AppTTGuard",
       "timeout": 10,
@@ -35,11 +23,11 @@
       "changeable": 1,
       "ext": "uqGL1bNENExT7/hGxpSE5qU=",
       "filterable": 1,
-      "jar": "https://gh-proxy.com/raw.githubusercontent.com/TOny6390/timi/refs/heads/main/jars/fa1bcd5643872834ee03be5ba2f23ac7.jar;md5;fa1bcd5643872834ee03be5ba2f23ac7"
+      "jar": "https://gh-proxy.com/raw.githubusercontent.com/TOny6390/timi/refs/heads/main/jars/fb6c7aca82019e4fb811497a37629e3d.jar;md5;fb6c7aca82019e4fb811497a37629e3d"
     },
     {
       "key": "咕噜",
-      "name": "🕊┃︎咕噜┃APP 「肥猫」",
+      "name": "咕噜 • APP 「肥猫」",
       "type": 3,
       "api": "csp_Gulu",
       "searchable": 1,
@@ -49,18 +37,18 @@
     },
     {
       "key": "WexAiReBo",
-      "name": "💥热播┃秒播💥 「王小二」",
+      "name": "热播 • 秒播 「王小二」",
       "type": 3,
       "api": "csp_WexAiReBoGuard",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
       "filterable": 1,
-      "jar": "https://gh-proxy.com/raw.githubusercontent.com/TOny6390/timi/refs/heads/main/jars/541366f5860ceb66e1c3005f5a299afe.jar;md5;541366f5860ceb66e1c3005f5a299afe"
+      "jar": "https://gh-proxy.com/raw.githubusercontent.com/TOny6390/timi/refs/heads/main/jars/5a934007fb34ec762c2e7d25dbdc865d.jar;md5;5a934007fb34ec762c2e7d25dbdc865d"
     },
     {
       "key": "AppV7 | 大师兄",
-      "name": "💥师兄┃秒播💥 「王小二」",
+      "name": "师兄 • 秒播 「王小二」",
       "type": 3,
       "api": "csp_WexAppV7Guard",
       "searchable": 1,
@@ -72,11 +60,11 @@
       "timeout": 120,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "https://gh-proxy.com/raw.githubusercontent.com/TOny6390/timi/refs/heads/main/jars/541366f5860ceb66e1c3005f5a299afe.jar;md5;541366f5860ceb66e1c3005f5a299afe"
+      "jar": "https://gh-proxy.com/raw.githubusercontent.com/TOny6390/timi/refs/heads/main/jars/5a934007fb34ec762c2e7d25dbdc865d.jar;md5;5a934007fb34ec762c2e7d25dbdc865d"
     },
     {
       "key": "行动",
-      "name": "😌┃行动┃APP 「肥猫」",
+      "name": "行动 • APP 「肥猫」",
       "type": 3,
       "api": "csp_AppDrama2",
       "ext": {
@@ -97,7 +85,7 @@
     },
     {
       "key": "干饭",
-      "name": "🍚┃干饭┃APP 「肥猫」",
+      "name": "干饭 • APP 「肥猫」",
       "type": 3,
       "api": "csp_AppDrama2",
       "ext": {
@@ -118,7 +106,7 @@
     },
     {
       "key": "潮流",
-      "name": "🏜┃潮流┃APP 「肥猫」",
+      "name": "潮流 • APP 「肥猫」",
       "type": 3,
       "api": "csp_AppRJ",
       "ext": "http://v.rbotv.cn",
@@ -129,7 +117,7 @@
     },
     {
       "key": "再来",
-      "name": "✌️┃再来┃APP 「肥猫」",
+      "name": "再来 • APP 「肥猫」",
       "type": 3,
       "api": "csp_AppDrama2",
       "ext": {
@@ -167,7 +155,7 @@
     },
     {
       "key": "下饭_2",
-      "name": "下饭 • APP(2) 「潇洒」",
+      "name": "下饭 • APP 「潇洒」",
       "type": 3,
       "api": "csp_JuXiaFan",
       "searchable": 1,
@@ -292,5 +280,5 @@
       "playerType": 2
     }
   ],
-  "spider": "https://gh-proxy.com/raw.githubusercontent.com/TOny6390/timi/refs/heads/main/jars/cbe016eb3cb002ae62058604843f5106.jar;md5;cbe016eb3cb002ae62058604843f5106"
+  "spider": "https://gh-proxy.com/raw.githubusercontent.com/TOny6390/timi/refs/heads/main/jars/decb609b673019e18512dc3a96b6a252.jar;md5;decb609b673019e18512dc3a96b6a252"
 }
