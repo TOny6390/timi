@@ -1,51 +1,227 @@
 {
-  "spider": "https://gh-proxy.com/raw.githubusercontent.com/TOny6390/timi/refs/heads/main/jars/fty.jar;md5;b25d0e7f7c87f31aa886b78fe43a7d4c",
-
   "sites": [
-    { "key": "csp_DouDou", "name": "⏗ 豆瓣┃首页片单", "type": 3, "api": "csp_DouDou", "indexs": 1, "searchable": 0, "quickSearch": 0, "filterable": 0, "changeable": 0 },
-
-    { "key": "csp_Anime1", "name": "Anime1┃动漫", "type": 3, "api": "csp_Anime1", "searchable": 1, "quickSearch": 1, "filterable": 1 },
-    { "key": "csp_Dm84", "name": "动漫┃巴士", "type": 3, "api": "csp_Dm84", "searchable": 1, "quickSearch": 1, "filterable": 1 },
-    { "key": "csp_Cokemv", "name": "Cokemv┃影视", "type": 3, "api": "csp_Cokemv", "searchable": 1, "quickSearch": 1, "filterable": 1 },
-    { "key": "csp_Bttwoo", "name": "比特┃影视", "type": 3, "api": "csp_Bttwoo", "searchable": 1, "quickSearch": 1, "filterable": 1 },
-    { "key": "csp_Kunyu77", "name": "77┃影视", "type": 3, "api": "csp_Kunyu77", "searchable": 1, "quickSearch": 1, "filterable": 1 },
-    { "key": "csp_Kuaikan", "name": "快看┃影视", "type": 3, "api": "csp_Kuaikan", "searchable": 1, "quickSearch": 1, "filterable": 1 },
-    { "key": "csp_NiNi", "name": "泥泥┃影视", "type": 3, "api": "csp_NiNi", "searchable": 1, "quickSearch": 1, "filterable": 1 },
-    { "key": "csp_Tangrenjie", "name": "唐人街┃影视", "type": 3, "api": "csp_Tangrenjie", "searchable": 1, "quickSearch": 1, "filterable": 1 },
-    { "key": "csp_Ysj", "name": "YSJ┃影视", "type": 3, "api": "csp_Ysj", "searchable": 1, "quickSearch": 1, "filterable": 1 },
-    { "key": "csp_Ying", "name": "影┃影视", "type": 3, "api": "csp_Ying", "searchable": 1, "quickSearch": 1, "filterable": 1 },
-    { "key": "csp_Dovx", "name": "Dovx┃影视", "type": 3, "api": "csp_Dovx", "searchable": 1, "quickSearch": 1, "filterable": 1 },
-    { "key": "csp_Jianying", "name": "简影┃影视", "type": 3, "api": "csp_Jianying", "searchable": 1, "quickSearch": 1, "filterable": 1 },
-    { "key": "csp_Yj1211", "name": "在线看┃影视", "type": 3, "api": "csp_Yj1211", "searchable": 1, "quickSearch": 1, "filterable": 1 },
-    { "key": "csp_AppMr", "name": "APP┃Mr", "type": 3, "api": "csp_AppMr", "searchable": 1, "quickSearch": 1, "filterable": 1 },
-    { "key": "csp_FirstAid", "name": "急救┃教学", "type": 3, "api": "csp_FirstAid", "searchable": 0, "quickSearch": 0, "filterable": 0 },
-
-    { "key": "csp_Xinsj", "name": "新视觉┃6080", "type": 3, "api": "csp_Xinsj", "searchable": 1, "quickSearch": 1, "filterable": 1 },
-    { "key": "csp_Voflix", "name": "Voflix┃影视", "type": 3, "api": "csp_Voflix", "searchable": 1, "quickSearch": 1, "filterable": 1 },
-    { "key": "csp_Zxzj", "name": "在线之家", "type": 3, "api": "csp_Zxzj", "searchable": 1, "quickSearch": 1, "filterable": 1 },
-    { "key": "csp_Auete", "name": "奥兔兔┃影视", "type": 3, "api": "csp_Auete", "searchable": 1, "quickSearch": 1, "filterable": 1 },
-    { "key": "csp_Ysgc", "name": "影视工厂", "type": 3, "api": "csp_Ysgc", "searchable": 1, "quickSearch": 1, "filterable": 1 },
-    { "key": "csp_MLYS", "name": "猫了个影视", "type": 3, "api": "csp_MLYS", "searchable": 1, "quickSearch": 1, "filterable": 1 },
-    { "key": "csp_Czsapp", "name": "厂长┃资源", "type": 3, "api": "csp_Czsapp", "searchable": 1, "quickSearch": 1, "filterable": 1 },
-    { "key": "csp_Opnxng", "name": "蓝光┃影视", "type": 3, "api": "csp_Opnxng", "searchable": 1, "quickSearch": 1, "filterable": 1 },
-    { "key": "csp_YTVIP", "name": "影探┃TVIP", "type": 3, "api": "csp_YTVIP", "searchable": 1, "quickSearch": 1, "filterable": 1 },
-    { "key": "csp_Ddrk", "name": "达达兔┃影视", "type": 3, "api": "csp_Ddrk", "searchable": 1, "quickSearch": 1, "filterable": 1 },
-    { "key": "csp_MYYS", "name": "日日┃影视", "type": 3, "api": "csp_MYYS", "searchable": 1, "quickSearch": 1, "filterable": 1 },
-    { "key": "csp_Nmys", "name": "糯米┃影视", "type": 3, "api": "csp_Nmys", "searchable": 1, "quickSearch": 1, "filterable": 1 },
-
-    { "key": "csp_Qtv", "name": "腾讯┃官方(需登录)", "type": 3, "api": "csp_Qtv", "searchable": 1, "quickSearch": 1, "filterable": 1 },
-    { "key": "csp_Mtv", "name": "芒果┃官方", "type": 3, "api": "csp_Mtv", "searchable": 1, "quickSearch": 1, "filterable": 1 },
-    { "key": "csp_Itv", "name": "爱奇艺┃官方(需登录)", "type": 3, "api": "csp_Itv", "searchable": 1, "quickSearch": 1, "filterable": 1 },
-    { "key": "csp_SP33", "name": "360┃官方", "type": 3, "api": "csp_SP33", "searchable": 1, "quickSearch": 1, "filterable": 1 }
+    {
+      "key": "豆瓣",
+      "name": "豆瓣 • 片单",
+      "type": 3,
+      "api": "csp_Douban",
+      "searchable": 0,
+      "quickSearch": 1,
+      "filterable": 1,
+      "jar": "https://gh-proxy.com/raw.githubusercontent.com/TOny6390/timi/refs/heads/main/jars/7a619712f3f423a5f26dc72a892b8875.jar;md5;7a619712f3f423a5f26dc72a892b8875",
+      "indexs": 1
+    },
+    {
+      "key": "豆瓣预告",
+      "name": "豆瓣 • 预告",
+      "type": 3,
+      "api": "csp_YGP",
+      "playerType": 2,
+      "searchable": 0,
+      "quickSearch": 1,
+      "filterable": 1,
+      "jar": "https://gh-proxy.com/raw.githubusercontent.com/TOny6390/timi/refs/heads/main/jars/7a619712f3f423a5f26dc72a892b8875.jar;md5;7a619712f3f423a5f26dc72a892b8875"
+    },
+    {
+      "key": "潮流",
+      "name": "潮流 • APP 「肥猫」",
+      "type": 3,
+      "api": "csp_AppRJ",
+      "ext": "http://v.rbotv.cn",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "jar": "https://gh-proxy.com/raw.githubusercontent.com/TOny6390/timi/refs/heads/main/jars/7a619712f3f423a5f26dc72a892b8875.jar;md5;7a619712f3f423a5f26dc72a892b8875"
+    },
+    {
+      "key": "行动",
+      "name": "行动 • APP 「肥猫」",
+      "type": 3,
+      "api": "csp_AppDrama2",
+      "ext": {
+        "appName": "华谊",
+        "publicKey": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCr8SzZhjYy+rsya1K09t8d2K50pWFoBkgUqMpKOiW+3IEVKd4eTdvg9RSOjQ82kypL6R9BnsmrS1V8s4PVDwjQbUtYhTPPC9Hz16qY7rpD6m0d2vr09/UpWQ5uOy9PR0QTrsioveZ+DIe9jc3C+zBCu/kZSY/R8stwJoiitki3gwIDAQAB",
+        "dataKey": "V04XQZNYRWN6T0JODZFIAG5CTZB3PT0=",
+        "dataIv": "OC1A06E197EF10CF3F6058CA7A803B5E",
+        "pkg": "com.lxf.sncgtzxyx",
+        "host": "",
+        "site": "https://1851089669.cdn.123clouddisk.com/1851089669/44107727",
+        "version": "6.0.0.1",
+        "decrypt": "1"
+      },
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "jar": "https://gh-proxy.com/raw.githubusercontent.com/TOny6390/timi/refs/heads/main/jars/7a619712f3f423a5f26dc72a892b8875.jar;md5;7a619712f3f423a5f26dc72a892b8875"
+    },
+    {
+      "key": "橘汁",
+      "name": "橘汁 • APP 「潇洒」",
+      "type": 3,
+      "api": "csp_AppDrama",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "appName": "橘汁",
+        "publicKey": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCr8SzZhjYy+rsya1K09t8d2K50pWFoBkgUqMpKOiW+3IEVKd4eTdvg9RSOjQ82kypL6R9BnsmrS1V8s4PVDwjQbUtYhTPPC9Hz16qY7rpD6m0d2vr09/UpWQ5uOy9PR0QTrsioveZ+DIe9jc3C+zBCu/kZSY/R8stwJoiitki3gwIDAQAB",
+        "dataKey": "ZU1DSFFWNENKMDYXVUQRN0ZJDUC4PQ==",
+        "dataIv": "OC1A06E197EF10CF3F6058CA7A803B5E",
+        "pkg": "com.asjdhjhd.mgd.p3",
+        "host": "",
+        "site": "https://1848463092.cdn.123clouddisk.com/1848463092/cct/az.txt",
+        "version": "3.0.7.0",
+        "decrypt": "1"
+      }
+    },
+    {
+      "key": "苹果",
+      "name": "苹果 • APP 「潇洒」",
+      "type": 3,
+      "api": "csp_AppDrama",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "appName": "小苹果",
+        "publicKey": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCduNEnfxGaLuQRk5ABzXHhPV43zi00sCHjLo8BYc+Wi6xXm2b4v0i28Sq4WlNCKhseft9fz8kO/qLr6/022o1RcuOU7e4GFL3U9WnNODwRBYSYWd+K8nqpI/tAUDmZEBGRWqjrc7x6aMl3A+xpnWkLbPCLsuhbuuUE3tv09oeOpwIDAQAB",
+        "dataKey": "S0VNDTJHOFHHCNMRAW5IV2TOS2PBPQ==",
+        "dataIv": "OC1A06E197EF10CF3F6058CA7A803B5E",
+        "pkg": "com.juechufsh.android.xpg1",
+        "host": "",
+        "site": "https://xpgandroid03-1372779881.cos.ap-beijing.myqcloud.com/app_xpg_android.txt",
+        "version": "1.0.0.3",
+        "decrypt": "0"
+      }
+    },
+    {
+      "key": "干饭",
+      "name": "干饭 • APP 「肥猫」",
+      "type": 3,
+      "api": "csp_AppDrama2",
+      "ext": {
+        "appName": "小苹果",
+        "publicKey": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCduNEnfxGaLuQRk5ABzXHhPV43zi00sCHjLo8BYc+Wi6xXm2b4v0i28Sq4WlNCKhseft9fz8kO/qLr6/022o1RcuOU7e4GFL3U9WnNODwRBYSYWd+K8nqpI/tAUDmZEBGRWqjrc7x6aMl3A+xpnWkLbPCLsuhbuuUE3tv09oeOpwIDAQAB",
+        "dataKey": "S0VNDTJHOFHHCNMRAW5IV2TOS2PBPQ==",
+        "dataIv": "OC1A06E197EF10CF3F6058CA7A803B5E",
+        "pkg": "com.juechufsh.android.xpg1",
+        "host": "",
+        "site": "https://xpgandroid03-1372779881.cos.ap-beijing.myqcloud.com/app_xpg_android.txt",
+        "version": "1.0.0.3",
+        "decrypt": "0"
+      },
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "jar": "https://gh-proxy.com/raw.githubusercontent.com/TOny6390/timi/refs/heads/main/jars/7a619712f3f423a5f26dc72a892b8875.jar;md5;7a619712f3f423a5f26dc72a892b8875"
+    },
+    {
+      "key": "再来",
+      "name": "再来 • APP 「肥猫」",
+      "type": 3,
+      "api": "csp_AppDrama2",
+      "ext": {
+        "appName": "电影天堂",
+        "publicKey": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCduNEnfxGaLuQRk5ABzXHhPV43zi00sCHjLo8BYc+Wi6xXm2b4v0i28Sq4WlNCKhseft9fz8kO/qLr6/022o1RcuOU7e4GFL3U9WnNODwRBYSYWd+K8nqpI/tAUDmZEBGRWqjrc7x6aMl3A+xpnWkLbPCLsuhbuuUE3tv09oeOpwIDAQAB",
+        "dataKey": "D2KREWRIBVNAUJJYEDL4VFHOY2Q0PQ==",
+        "dataIv": "OC1A06E197EF10CF3F6058CA7A803B5E",
+        "pkg": "com.dytiantang.one",
+        "host": "",
+        "site": "https://dyttandroid04-1372779881.cos.ap-shanghai.myqcloud.com/app_dyttandroid.txt",
+        "version": "3.0.0.7",
+        "decrypt": "0"
+      },
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "jar": "https://gh-proxy.com/raw.githubusercontent.com/TOny6390/timi/refs/heads/main/jars/7a619712f3f423a5f26dc72a892b8875.jar;md5;7a619712f3f423a5f26dc72a892b8875"
+    },
+    {
+      "key": "下饭_2",
+      "name": "下饭 • APP 「潇洒」",
+      "type": 3,
+      "api": "csp_JuXiaFan",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "天堂",
+      "name": "天堂 • APP 「潇洒」",
+      "type": 3,
+      "api": "csp_AppDrama",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "appName": "电影天堂",
+        "publicKey": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCduNEnfxGaLuQRk5ABzXHhPV43zi00sCHjLo8BYc+Wi6xXm2b4v0i28Sq4WlNCKhseft9fz8kO/qLr6/022o1RcuOU7e4GFL3U9WnNODwRBYSYWd+K8nqpI/tAUDmZEBGRWqjrc7x6aMl3A+xpnWkLbPCLsuhbuuUE3tv09oeOpwIDAQAB",
+        "dataKey": "D2KREWRIBVNAUJJYEDL4VFHOY2Q0PQ==",
+        "dataIv": "OC1A06E197EF10CF3F6058CA7A803B5E",
+        "pkg": "com.dytiantang.one",
+        "host": "",
+        "site": "https://dyttandroid04-1372779881.cos.ap-shanghai.myqcloud.com/app_dyttandroid.txt",
+        "version": "3.0.0.7",
+        "decrypt": "0"
+      }
+    },
+    {
+      "key": "华谊",
+      "name": "华谊 • APP 「潇洒」",
+      "type": 3,
+      "api": "csp_AppDrama",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "appName": "华谊",
+        "publicKey": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCr8SzZhjYy+rsya1K09t8d2K50pWFoBkgUqMpKOiW+3IEVKd4eTdvg9RSOjQ82kypL6R9BnsmrS1V8s4PVDwjQbUtYhTPPC9Hz16qY7rpD6m0d2vr09/UpWQ5uOy9PR0QTrsioveZ+DIe9jc3C+zBCu/kZSY/R8stwJoiitki3gwIDAQAB",
+        "dataKey": "V04XQZNYRWN6T0JODZFIAG5CTZB3PT0=",
+        "dataIv": "OC1A06E197EF10CF3F6058CA7A803B5E",
+        "pkg": "com.lxf.sncgtzxyx",
+        "host": "",
+        "site": "https://1851089669.cdn.123clouddisk.com/1851089669/44107727",
+        "version": "6.0.0.1",
+        "decrypt": "0"
+      }
+    },
+    {
+      "key": "星辰影视",
+      "name": "星辰 • 影视 「潇洒」",
+      "type": 3,
+      "api": "csp_XingChen",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "金牌影视",
+      "name": "金牌 • 影视 「潇洒」",
+      "type": 3,
+      "api": "csp_Jpys",
+      "ext": "https://y2s52n7.com,https://m.hkybqufgh.com,https://m.sizhengxt.com,https://m.9zhoukj.com,https://m.sizhengxt.com,https://m.jiabaide.cn",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "独播影视",
+      "name": "独播 • 影视 「潇洒」",
+      "type": 3,
+      "api": "csp_Duboku",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    }
   ],
-
-  "parses": [
-    { "name": "聚合", "type": 3, "url": "Web" },
-    { "name": "xmflv", "type": 0, "url": "https://jx.xmflv.com/?url=" },
-    { "name": "yparse", "type": 0, "url": "https://jx.yparse.com/index.php?url=" }
+  "parses": [],
+  "lives": [
+    {
+      "name": "广东联通",
+      "type": 0,
+      "url": "https://gh-proxy.com/raw.githubusercontent.com/TOny6390/timi/refs/heads/main/tv_tvbox.m3u",
+      "playerType": 2
+    }
   ],
-
-  "lives": [],
-
-  "flags": [ "youku", "qq", "iqiyi", "qiyi", "letv", "sohu", "tudou", "pptv", "mgtv", "wasu", "bilibili", "xigua" ]
+  "spider": "https://gh-proxy.com/raw.githubusercontent.com/TOny6390/timi/refs/heads/main/jars/decb609b673019e18512dc3a96b6a252.jar;md5;decb609b673019e18512dc3a96b6a252"
 }
