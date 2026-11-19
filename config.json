@@ -10,13 +10,12 @@
     { "key": "csp_XingChen", "name": "星辰┃影视", "type": 3, "api": "csp_XingChen", "searchable": 1, "quickSearch": 1, "filterable": 1 },
     { "key": "csp_AnimeBashi", "name": "动漫┃巴士", "type": 3, "api": "csp_AnimeBashi", "searchable": 1, "quickSearch": 1, "filterable": 1 },
     { "key": "csp_AnimeGiri", "name": "嘀哩┃咕哩", "type": 3, "api": "csp_AnimeGiri", "searchable": 1, "quickSearch": 1, "filterable": 1 },
+    { "key": "csp_New6v", "name": "6v┃磁力", "type": 3, "api": "csp_New6v", "searchable": 1, "quickSearch": 1, "filterable": 1, "changeable": 1 },
     { "key": "csp_4KZhinan", "name": "4K┃指南", "type": 3, "api": "csp_4KZhinan", "searchable": 1, "quickSearch": 1 },
     { "key": "csp_ALLLive", "name": "ALL┃聚合直播", "type": 3, "api": "csp_ALLLive", "searchable": 0, "quickSearch": 0, "changeable": 0 },
     { "key": "csp_AiPan", "name": "爱盘┃搜索", "type": 3, "api": "csp_AiPan", "searchable": 1, "quickSearch": 0 },
     { "key": "csp_FirstAid", "name": "急救┃教学", "type": 3, "api": "csp_FirstAid", "searchable": 0, "quickSearch": 0 },
-    { "key": "csp_Push", "name": "推送┃Ali/夸克", "type": 3, "api": "csp_Push", "searchable": 0, "quickSearch": 0, "changeable": 0 },
-
-    { "key": "drpy_6v", "name": "6v磁力┃[drpy-js]", "type": 3, "api": "https://gh-proxy.com/raw.githubusercontent.com/TOny6390/timi/refs/heads/main/lib/drpy2.min.js", "ext": "https://gh-proxy.com/raw.githubusercontent.com/TOny6390/timi/refs/heads/main/js/xb6v.js", "searchable": 1, "quickSearch": 1, "filterable": 0, "changeable": 0 }
+    { "key": "csp_Push", "name": "推送┃Ali/夸克", "type": 3, "api": "csp_Push", "searchable": 0, "quickSearch": 0, "changeable": 0 }
   ],
 
   "parses": [
