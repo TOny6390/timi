@@ -1,0 +1,218 @@
+{
+  "spider": "https://gh-proxy.com/raw.githubusercontent.com/TOny6390/timi/refs/heads/main/test/custom_spider.jar;md5;e30b6846308bb9dee1ba11b389b8206e",
+  "lives": [],
+  "wallpaper": "https://www.dmoe.cc/random.php",
+  "sites": [
+    {
+      "key": "dd",
+      "name": "豆瓣┃首页·收藏·推荐",
+      "type": 3,
+      "api": "csp_Douban",
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 1,
+      "filterable": 1
+    },
+    {
+      "key": "ffzy",
+      "name": "非凡┃采集",
+      "type": 1,
+      "api": "https://ffzy.tv/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "jszy",
+      "name": "极速┃采集",
+      "type": 1,
+      "api": "https://jszyapi.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "zy360",
+      "name": "360┃采集",
+      "type": 1,
+      "api": "https://360zy.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "kkys",
+      "name": "可可影视┃聚合(多线自动切换)",
+      "type": 3,
+      "api": "csp_Kkys",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "",
+      "indexs": 1
+    },
+    {
+      "key": "kkys_s4",
+      "name": "可可┃非凡[4]",
+      "type": 3,
+      "api": "csp_Kkys",
+      "searchable": 1,
+      "quickSearch": 1,
+      "ext": "sourceId=4"
+    },
+    {
+      "key": "kkys_s27",
+      "name": "可可┃暴风[27]",
+      "type": 3,
+      "api": "csp_Kkys",
+      "searchable": 1,
+      "quickSearch": 1,
+      "ext": "sourceId=27"
+    },
+    {
+      "key": "kkys_s9",
+      "name": "可可┃暴风系[9]",
+      "type": 3,
+      "api": "csp_Kkys",
+      "searchable": 1,
+      "quickSearch": 1,
+      "ext": "sourceId=9"
+    },
+    {
+      "key": "kkys_s36",
+      "name": "可可┃极速[36]",
+      "type": 3,
+      "api": "csp_Kkys",
+      "searchable": 1,
+      "quickSearch": 1,
+      "ext": "sourceId=36"
+    },
+    {
+      "key": "kkys_s39",
+      "name": "可可┃电影天堂[39]",
+      "type": 3,
+      "api": "csp_Kkys",
+      "searchable": 1,
+      "quickSearch": 1,
+      "ext": "sourceId=39"
+    },
+    {
+      "key": "kkys_s2",
+      "name": "可可┃优质[2]",
+      "type": 3,
+      "api": "csp_Kkys",
+      "searchable": 1,
+      "quickSearch": 1,
+      "ext": "sourceId=2"
+    },
+    {
+      "key": "kkys_s12",
+      "name": "可可┃量子[12]",
+      "type": 3,
+      "api": "csp_Kkys",
+      "searchable": 1,
+      "quickSearch": 1,
+      "ext": "sourceId=12"
+    },
+    {
+      "key": "kkys_s14",
+      "name": "可可┃速播[14]",
+      "type": 3,
+      "api": "csp_Kkys",
+      "searchable": 1,
+      "quickSearch": 1,
+      "ext": "sourceId=14"
+    },
+    {
+      "key": "kkys_s21",
+      "name": "可可┃ikun[21]",
+      "type": 3,
+      "api": "csp_Kkys",
+      "searchable": 1,
+      "quickSearch": 1,
+      "ext": "sourceId=21"
+    },
+    {
+      "key": "kkys_s3",
+      "name": "可可┃bdzy[3]",
+      "type": 3,
+      "api": "csp_Kkys",
+      "searchable": 1,
+      "quickSearch": 1,
+      "ext": "sourceId=3"
+    },
+    {
+      "key": "kkys_s41",
+      "name": "可可┃独家[41](多APP/空)",
+      "type": 3,
+      "api": "csp_Kkys",
+      "searchable": 1,
+      "quickSearch": 1,
+      "ext": "sourceId=41"
+    },
+    {
+      "key": "kkys_s33",
+      "name": "可可┃H源[33]",
+      "type": 3,
+      "api": "csp_Kkys",
+      "searchable": 1,
+      "quickSearch": 1,
+      "ext": "sourceId=33"
+    },
+    {
+      "key": "kkys_s19",
+      "name": "可可┃X源[19]",
+      "type": 3,
+      "api": "csp_Kkys",
+      "searchable": 1,
+      "quickSearch": 1,
+      "ext": "sourceId=19"
+    },
+    {
+      "key": "kkys_s37",
+      "name": "可可┃A源[37]",
+      "type": 3,
+      "api": "csp_Kkys",
+      "searchable": 1,
+      "quickSearch": 1,
+      "ext": "sourceId=37"
+    },
+    {
+      "key": "kkys_s29",
+      "name": "可可┃R源[29]",
+      "type": 3,
+      "api": "csp_Kkys",
+      "searchable": 1,
+      "quickSearch": 1,
+      "ext": "sourceId=29"
+    },
+    {
+      "key": "kkys_s18",
+      "name": "可可┃P源[18]",
+      "type": 3,
+      "api": "csp_Kkys",
+      "searchable": 1,
+      "quickSearch": 1,
+      "ext": "sourceId=18"
+    },
+    {
+      "key": "kkys_s22",
+      "name": "可可┃K源[22]",
+      "type": 3,
+      "api": "csp_Kkys",
+      "searchable": 1,
+      "quickSearch": 1,
+      "ext": "sourceId=22"
+    },
+    {
+      "key": "kkys_s7",
+      "name": "可可┃G源[7]",
+      "type": 3,
+      "api": "csp_Kkys",
+      "searchable": 1,
+      "quickSearch": 1,
+      "ext": "sourceId=7"
+    }
+  ],
+  "_note": "拆分站的 [数字] 是可可用以区分线路的稳定 sourceId(其上方中文名会因片而异、不可靠); 品牌是按各 sourceId 实测到的播放 CDN 域名归属确定的: ffzy-play/feifei=非凡, bfzycdn/fengbao=暴风, bfvvs=暴风系, jisuzyv=极速, dytt=电影天堂, yzzy=优质, lzcdn=量子, subokk=速播, bfikun=ikun, bdzy=bdzy, dujia/裸IP=独家. 标(待核)的是只抓到播放CDN池、暂无法对应公开采集站的线路. sourceId=35(仅供APP端)已在 csp_Kkys 内全局屏蔽故未列出. 3 条 type:1 采集(非凡/极速/360)是真实独立站, 不依赖可可; 其余 kkys_sNN 后端仍是可可(仅各暴露一条线路)。豆瓣为 jar 内置 csp_Douban。"
+}
