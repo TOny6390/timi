@@ -1,5 +1,5 @@
 {
-  "spider": "https://gh-proxy.com/raw.githubusercontent.com/TOny6390/timi/refs/heads/main/test/custom_spider.jar;md5;7db46cb35e442162facada2683b24566",
+  "spider": "https://gh-proxy.com/raw.githubusercontent.com/TOny6390/timi/refs/heads/main/test/custom_spider.jar;md5;dd251bd5c9a5d37a8250dfd4bf2c320c",
   "lives": [],
   "wallpaper": "https://www.dmoe.cc/random.php",
   "sites": [
@@ -35,8 +35,8 @@
       "name": "可可影视┃聚合(多线自动切换)",
       "type": 3,
       "api": "csp_Kkys",
-      "searchable": 1,
-      "quickSearch": 1,
+      "searchable": 0,
+      "quickSearch": 0,
       "filterable": 1,
       "ext": "",
       "indexs": 1
@@ -46,8 +46,8 @@
       "name": "可可┃非凡[4]",
       "type": 3,
       "api": "csp_Kkys",
-      "searchable": 1,
-      "quickSearch": 1,
+      "searchable": 0,
+      "quickSearch": 0,
       "ext": "sourceId=4"
     },
     {
@@ -55,8 +55,8 @@
       "name": "可可┃暴风[27]",
       "type": 3,
       "api": "csp_Kkys",
-      "searchable": 1,
-      "quickSearch": 1,
+      "searchable": 0,
+      "quickSearch": 0,
       "ext": "sourceId=27"
     },
     {
@@ -64,8 +64,8 @@
       "name": "可可┃暴风系[9]",
       "type": 3,
       "api": "csp_Kkys",
-      "searchable": 1,
-      "quickSearch": 1,
+      "searchable": 0,
+      "quickSearch": 0,
       "ext": "sourceId=9"
     },
     {
@@ -73,8 +73,8 @@
       "name": "可可┃极速[36]",
       "type": 3,
       "api": "csp_Kkys",
-      "searchable": 1,
-      "quickSearch": 1,
+      "searchable": 0,
+      "quickSearch": 0,
       "ext": "sourceId=36"
     },
     {
@@ -82,8 +82,8 @@
       "name": "可可┃电影天堂[39]",
       "type": 3,
       "api": "csp_Kkys",
-      "searchable": 1,
-      "quickSearch": 1,
+      "searchable": 0,
+      "quickSearch": 0,
       "ext": "sourceId=39"
     },
     {
@@ -91,8 +91,8 @@
       "name": "可可┃优质[2]",
       "type": 3,
       "api": "csp_Kkys",
-      "searchable": 1,
-      "quickSearch": 1,
+      "searchable": 0,
+      "quickSearch": 0,
       "ext": "sourceId=2"
     },
     {
@@ -100,8 +100,8 @@
       "name": "可可┃量子[12]",
       "type": 3,
       "api": "csp_Kkys",
-      "searchable": 1,
-      "quickSearch": 1,
+      "searchable": 0,
+      "quickSearch": 0,
       "ext": "sourceId=12"
     },
     {
@@ -109,8 +109,8 @@
       "name": "可可┃速播[14]",
       "type": 3,
       "api": "csp_Kkys",
-      "searchable": 1,
-      "quickSearch": 1,
+      "searchable": 0,
+      "quickSearch": 0,
       "ext": "sourceId=14"
     },
     {
@@ -118,8 +118,8 @@
       "name": "可可┃ikun[21]",
       "type": 3,
       "api": "csp_Kkys",
-      "searchable": 1,
-      "quickSearch": 1,
+      "searchable": 0,
+      "quickSearch": 0,
       "ext": "sourceId=21"
     },
     {
@@ -127,8 +127,8 @@
       "name": "可可┃bdzy[3]",
       "type": 3,
       "api": "csp_Kkys",
-      "searchable": 1,
-      "quickSearch": 1,
+      "searchable": 0,
+      "quickSearch": 0,
       "ext": "sourceId=3"
     },
     {
@@ -136,8 +136,8 @@
       "name": "可可┃独家[41](多APP/空)",
       "type": 3,
       "api": "csp_Kkys",
-      "searchable": 1,
-      "quickSearch": 1,
+      "searchable": 0,
+      "quickSearch": 0,
       "ext": "sourceId=41"
     },
     {
@@ -145,8 +145,8 @@
       "name": "可可┃H源[33]",
       "type": 3,
       "api": "csp_Kkys",
-      "searchable": 1,
-      "quickSearch": 1,
+      "searchable": 0,
+      "quickSearch": 0,
       "ext": "sourceId=33"
     },
     {
@@ -154,8 +154,8 @@
       "name": "可可┃X源[19]",
       "type": 3,
       "api": "csp_Kkys",
-      "searchable": 1,
-      "quickSearch": 1,
+      "searchable": 0,
+      "quickSearch": 0,
       "ext": "sourceId=19"
     },
     {
@@ -163,8 +163,8 @@
       "name": "可可┃A源[37]",
       "type": 3,
       "api": "csp_Kkys",
-      "searchable": 1,
-      "quickSearch": 1,
+      "searchable": 0,
+      "quickSearch": 0,
       "ext": "sourceId=37"
     },
     {
@@ -172,8 +172,8 @@
       "name": "可可┃R源[29]",
       "type": 3,
       "api": "csp_Kkys",
-      "searchable": 1,
-      "quickSearch": 1,
+      "searchable": 0,
+      "quickSearch": 0,
       "ext": "sourceId=29"
     },
     {
@@ -181,8 +181,8 @@
       "name": "可可┃P源[18]",
       "type": 3,
       "api": "csp_Kkys",
-      "searchable": 1,
-      "quickSearch": 1,
+      "searchable": 0,
+      "quickSearch": 0,
       "ext": "sourceId=18"
     },
     {
@@ -190,8 +190,8 @@
       "name": "可可┃K源[22]",
       "type": 3,
       "api": "csp_Kkys",
-      "searchable": 1,
-      "quickSearch": 1,
+      "searchable": 0,
+      "quickSearch": 0,
       "ext": "sourceId=22"
     },
     {
@@ -199,10 +199,10 @@
       "name": "可可┃G源[7]",
       "type": 3,
       "api": "csp_Kkys",
-      "searchable": 1,
-      "quickSearch": 1,
+      "searchable": 0,
+      "quickSearch": 0,
       "ext": "sourceId=7"
     }
   ],
-  "_note": "拆分站的 [数字] 是可可用以区分线路的稳定 sourceId(其上方中文名会因片而异、不可靠); 品牌是按各 sourceId 实测到的播放 CDN 域名归属确定的: ffzy-play/feifei=非凡, bfzycdn/fengbao=暴风, bfvvs=暴风系, jisuzyv=极速, dytt=电影天堂, yzzy=优质, lzcdn=量子, subokk=速播, bfikun=ikun, bdzy=bdzy, dujia/裸IP=独家. 标(待核)的是只抓到播放CDN池、暂无法对应公开采集站的线路. sourceId=35(仅供APP端)已在 csp_Kkys 内全局屏蔽故未列出. 3 条 type:1 采集(非凡/极速/360)是真实独立站, 不依赖可可; 其余 kkys_sNN 后端仍是可可(仅各暴露一条线路)。豆瓣站(csp_Douban)因 jar 未含该类已移除。"
+  "_note": "拆分站的 [数字] 是可可用以区分线路的稳定 sourceId(其上方中文名会因片而异、不可靠); 品牌是按各 sourceId 实测到的播放 CDN 域名归属确定的: ffzy-play/feifei=非凡, bfzycdn/fengbao=暴风, bfvvs=暴风系, jisuzyv=极速, dytt=电影天堂, yzzy=优质, lzcdn=量子, subokk=速播, bfikun=ikun, bdzy=bdzy, dujia/裸IP=独家. 标(待核)的是只抓到播放CDN池、暂无法对应公开采集站的线路. sourceId=35(仅供APP端)已在 csp_Kkys 内全局屏蔽故未列出. 3 条 type:1 采集(非凡/极速/360)是真实独立站, 不依赖可可; 其余 kkys_sNN 后端仍是可可(仅各暴露一条线路)。豆瓣站(csp_Douban)因 jar 未含该类已移除。 搜索分工: 可可由服务端JS异步加载结果(csp_Kkys 纯Java拿不到), 故 19 个 kkys 站 searchable/quickSearch=0 不参与搜索, 仅作首页/分类浏览+多线路播放; 搜索统一走 3 条 type:1 采集站(非凡/极速/360)。"
 }
