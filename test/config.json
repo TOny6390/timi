@@ -1,18 +1,8 @@
 {
-  "spider": "https://gh-proxy.com/raw.githubusercontent.com/TOny6390/timi/refs/heads/main/test/custom_spider.jar;md5;e30b6846308bb9dee1ba11b389b8206e",
+  "spider": "https://gh-proxy.com/raw.githubusercontent.com/TOny6390/timi/refs/heads/main/test/custom_spider.jar;md5;7db46cb35e442162facada2683b24566",
   "lives": [],
   "wallpaper": "https://www.dmoe.cc/random.php",
   "sites": [
-    {
-      "key": "dd",
-      "name": "豆瓣┃首页·收藏·推荐",
-      "type": 3,
-      "api": "csp_Douban",
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 1,
-      "filterable": 1
-    },
     {
       "key": "ffzy",
       "name": "非凡┃采集",
@@ -214,5 +204,5 @@
       "ext": "sourceId=7"
     }
   ],
-  "_note": "拆分站的 [数字] 是可可用以区分线路的稳定 sourceId(其上方中文名会因片而异、不可靠); 品牌是按各 sourceId 实测到的播放 CDN 域名归属确定的: ffzy-play/feifei=非凡, bfzycdn/fengbao=暴风, bfvvs=暴风系, jisuzyv=极速, dytt=电影天堂, yzzy=优质, lzcdn=量子, subokk=速播, bfikun=ikun, bdzy=bdzy, dujia/裸IP=独家. 标(待核)的是只抓到播放CDN池、暂无法对应公开采集站的线路. sourceId=35(仅供APP端)已在 csp_Kkys 内全局屏蔽故未列出. 3 条 type:1 采集(非凡/极速/360)是真实独立站, 不依赖可可; 其余 kkys_sNN 后端仍是可可(仅各暴露一条线路)。豆瓣为 jar 内置 csp_Douban。"
+  "_note": "拆分站的 [数字] 是可可用以区分线路的稳定 sourceId(其上方中文名会因片而异、不可靠); 品牌是按各 sourceId 实测到的播放 CDN 域名归属确定的: ffzy-play/feifei=非凡, bfzycdn/fengbao=暴风, bfvvs=暴风系, jisuzyv=极速, dytt=电影天堂, yzzy=优质, lzcdn=量子, subokk=速播, bfikun=ikun, bdzy=bdzy, dujia/裸IP=独家. 标(待核)的是只抓到播放CDN池、暂无法对应公开采集站的线路. sourceId=35(仅供APP端)已在 csp_Kkys 内全局屏蔽故未列出. 3 条 type:1 采集(非凡/极速/360)是真实独立站, 不依赖可可; 其余 kkys_sNN 后端仍是可可(仅各暴露一条线路)。豆瓣站(csp_Douban)因 jar 未含该类已移除。"
 }
