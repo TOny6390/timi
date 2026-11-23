@@ -1,5 +1,5 @@
 {
-  "spider": "https://gh-proxy.com/raw.githubusercontent.com/TOny6390/timi/refs/heads/main/test/custom_spider.jar;md5;dd251bd5c9a5d37a8250dfd4bf2c320c",
+  "spider": "https://gh-proxy.com/raw.githubusercontent.com/TOny6390/timi/refs/heads/main/test/custom_spider.jar;md5;80cc58b0ffc1d2691b040fc418f7224f",
   "lives": [],
   "wallpaper": "https://www.dmoe.cc/random.php",
   "sites": [
@@ -103,15 +103,6 @@
       "searchable": 0,
       "quickSearch": 0,
       "ext": "sourceId=3"
-    },
-    {
-      "key": "kkys_s41",
-      "name": "可可┃独家[41](多APP/空)",
-      "type": 3,
-      "api": "csp_Kkys",
-      "searchable": 0,
-      "quickSearch": 0,
-      "ext": "sourceId=41"
     },
     {
       "key": "kkys_s33",
