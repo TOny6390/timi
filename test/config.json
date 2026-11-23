@@ -1,172 +1,98 @@
 {
-  "spider": "https://gh-proxy.com/raw.githubusercontent.com/TOny6390/timi/refs/heads/main/test/custom_spider.jar;md5;80cc58b0ffc1d2691b040fc418f7224f",
   "lives": [],
   "wallpaper": "https://www.dmoe.cc/random.php",
   "sites": [
     {
-      "key": "kkys",
-      "name": "可可影视┃聚合(多线自动切换)",
-      "type": 3,
-      "api": "csp_Kkys",
-      "searchable": 0,
-      "quickSearch": 0,
+      "key": "hongniu",
+      "name": "🔥红牛┃资源",
+      "type": 1,
+      "api": "https://www.hongniuzy2.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
       "filterable": 1,
-      "ext": "",
       "indexs": 1
     },
     {
-      "key": "kkys_s4",
-      "name": "可可┃非凡[4]",
-      "type": 3,
-      "api": "csp_Kkys",
-      "searchable": 0,
-      "quickSearch": 0,
-      "ext": "sourceId=4"
+      "key": "bdzy",
+      "name": "百度┃资源",
+      "type": 1,
+      "api": "https://api.apibdzy.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
     },
     {
-      "key": "kkys_s27",
-      "name": "可可┃暴风[27]",
-      "type": 3,
-      "api": "csp_Kkys",
-      "searchable": 0,
-      "quickSearch": 0,
-      "ext": "sourceId=27"
+      "key": "guangsu",
+      "name": "光速┃资源",
+      "type": 1,
+      "api": "https://api.guangsuapi.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
     },
     {
-      "key": "kkys_s9",
-      "name": "可可┃暴风系[9]",
-      "type": 3,
-      "api": "csp_Kkys",
-      "searchable": 0,
-      "quickSearch": 0,
-      "ext": "sourceId=9"
+      "key": "bfzy",
+      "name": "暴风┃资源",
+      "type": 1,
+      "api": "https://bfzyapi.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
     },
     {
-      "key": "kkys_s36",
-      "name": "可可┃极速[36]",
-      "type": 3,
-      "api": "csp_Kkys",
-      "searchable": 0,
-      "quickSearch": 0,
-      "ext": "sourceId=36"
+      "key": "ffzyapi",
+      "name": "非凡┃资源",
+      "type": 1,
+      "api": "https://cj.ffzyapi.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
     },
     {
-      "key": "kkys_s39",
-      "name": "可可┃电影天堂[39]",
-      "type": 3,
-      "api": "csp_Kkys",
-      "searchable": 0,
-      "quickSearch": 0,
-      "ext": "sourceId=39"
+      "key": "liziapi",
+      "name": "量子┃资源",
+      "type": 1,
+      "api": "https://cj.lziapi.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
     },
     {
-      "key": "kkys_s2",
-      "name": "可可┃优质[2]",
-      "type": 3,
-      "api": "csp_Kkys",
-      "searchable": 0,
-      "quickSearch": 0,
-      "ext": "sourceId=2"
+      "key": "jyzy",
+      "name": "金鹰┃资源",
+      "type": 1,
+      "api": "https://jyzyapi.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
     },
     {
-      "key": "kkys_s12",
-      "name": "可可┃量子[12]",
-      "type": 3,
-      "api": "csp_Kkys",
-      "searchable": 0,
-      "quickSearch": 0,
-      "ext": "sourceId=12"
+      "key": "ffzy",
+      "name": "非凡┃采集(原)",
+      "type": 1,
+      "api": "https://ffzy.tv/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
     },
     {
-      "key": "kkys_s14",
-      "name": "可可┃速播[14]",
-      "type": 3,
-      "api": "csp_Kkys",
-      "searchable": 0,
-      "quickSearch": 0,
-      "ext": "sourceId=14"
+      "key": "jszy",
+      "name": "极速┃采集(原)",
+      "type": 1,
+      "api": "https://jszyapi.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
     },
     {
-      "key": "kkys_s21",
-      "name": "可可┃ikun[21]",
-      "type": 3,
-      "api": "csp_Kkys",
-      "searchable": 0,
-      "quickSearch": 0,
-      "ext": "sourceId=21"
-    },
-    {
-      "key": "kkys_s3",
-      "name": "可可┃bdzy[3]",
-      "type": 3,
-      "api": "csp_Kkys",
-      "searchable": 0,
-      "quickSearch": 0,
-      "ext": "sourceId=3"
-    },
-    {
-      "key": "kkys_s33",
-      "name": "可可┃H源[33]",
-      "type": 3,
-      "api": "csp_Kkys",
-      "searchable": 0,
-      "quickSearch": 0,
-      "ext": "sourceId=33"
-    },
-    {
-      "key": "kkys_s19",
-      "name": "可可┃X源[19]",
-      "type": 3,
-      "api": "csp_Kkys",
-      "searchable": 0,
-      "quickSearch": 0,
-      "ext": "sourceId=19"
-    },
-    {
-      "key": "kkys_s37",
-      "name": "可可┃A源[37]",
-      "type": 3,
-      "api": "csp_Kkys",
-      "searchable": 0,
-      "quickSearch": 0,
-      "ext": "sourceId=37"
-    },
-    {
-      "key": "kkys_s29",
-      "name": "可可┃R源[29]",
-      "type": 3,
-      "api": "csp_Kkys",
-      "searchable": 0,
-      "quickSearch": 0,
-      "ext": "sourceId=29"
-    },
-    {
-      "key": "kkys_s18",
-      "name": "可可┃P源[18]",
-      "type": 3,
-      "api": "csp_Kkys",
-      "searchable": 0,
-      "quickSearch": 0,
-      "ext": "sourceId=18"
-    },
-    {
-      "key": "kkys_s22",
-      "name": "可可┃K源[22]",
-      "type": 3,
-      "api": "csp_Kkys",
-      "searchable": 0,
-      "quickSearch": 0,
-      "ext": "sourceId=22"
-    },
-    {
-      "key": "kkys_s7",
-      "name": "可可┃G源[7]",
-      "type": 3,
-      "api": "csp_Kkys",
-      "searchable": 0,
-      "quickSearch": 0,
-      "ext": "sourceId=7"
+      "key": "zy360",
+      "name": "360┃采集(原)",
+      "type": 1,
+      "api": "https://360zy.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
     }
   ],
-  "_note": "拆分站的 [数字] 是可可用以区分线路的稳定 sourceId(其上方中文名会因片而异、不可靠); 品牌是按各 sourceId 实测到的播放 CDN 域名归属确定的: ffzy-play/feifei=非凡, bfzycdn/fengbao=暴风, bfvvs=暴风系, jisuzyv=极速, dytt=电影天堂, yzzy=优质, lzcdn=量子, subokk=速播, bfikun=ikun, bdzy=bdzy, dujia/裸IP=独家. 标(待核)的是只抓到播放CDN池、暂无法对应公开采集站的线路. sourceId=35(仅供APP端)已在 csp_Kkys 内全局屏蔽故未列出. 豆瓣站(csp_Douban)因 jar 未含该类已移除。【2026-11-23 改为纯可可】删除原 3 条 type:1 采集站(非凡/极速/360), 因 TV 端「站点切换」关闭后首页固定取 sites[0], 原先 sites[0]=非凡采集导致 csp_Kkys 从未被调用。现 sites[0]=kkys(可可影视聚合), 首页/分类必然走自研 jar。代价: 可可由服务端JS异步加载搜索结果, csp_Kkys 纯Java拿不到, 故全部站点 searchable/quickSearch=0, 搜索页无结果(已获用户确认)。"
+  "_note": "2026-11-23 改为纯公共采集站(type:1 标准 MacCMS V10)，删除全部自建爬虫站点与 spider jar 引用。红牛置 sites[0] 且 indexs=1(首页默认站)。10 站全部直连实测 HTTP200 + 有效 JSON：红牛 118515 / 百度 49808 / 光速 119106 / 暴风 173574 / 非凡cj 99252 / 量子 165111 / 金鹰 119093 / 非凡ffzy.tv 99252 / 极速 117440 / 360 75675。全部 searchable=1，搜索与播放页换源可用。原 kk 三站(ffzy.tv/jszyapi/360zy)按用户要求保留；新加非凡(cj.ffzyapi)与其同源但不同域名，故并存。"
 }
