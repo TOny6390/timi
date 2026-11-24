@@ -140,13 +140,6 @@
     }
   ],
   "parses": [],
-  "lives": [
-    {
-      "name": "广东联通",
-      "type": 0,
-      "url": "https://gh-proxy.com/raw.githubusercontent.com/TOny6390/timi/refs/heads/main/tv_tvbox.m3u",
-      "playerType": 2
-    }
-  ],
-  "spider": "https://gh-proxy.com/raw.githubusercontent.com/TOny6390/timi/refs/heads/main/jars/fe08785f7a9c62dc.jar"
+  "lives": [],
+  "spider": "https://gh-proxy.com/raw.githubusercontent.com/TOny6390/timi/refs/heads/main/jars/b67c6648a07391b7bee0fc0848ada8eb.jar;md5;b67c6648a07391b7bee0fc0848ada8eb"
 }
